@@ -1,0 +1,4 @@
+MOS
+===
+
+Multiprograminė operacinė sistema
